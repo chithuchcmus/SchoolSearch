@@ -1,0 +1,59 @@
+{
+  "myPlace": [
+    {
+      "name": "Đại học Khoa Học Tự Nhiên",
+      "descripstion": "good place",
+      "addres": "225 Nguyễn Văn Cừ",
+      "latitude": "10.762913",
+      "longitude": "106.6821717",
+      "website": "https://web.hcmus.edu.vn/",
+      "email" : "@khtn.edu.vn",
+      "sdt" : "02862884499",
+      "image" : "1"
+    },
+    {
+      "name": "Đại Học Sư Phạm",
+      "descripstion": "very good place",
+      "addres": "222 Lê Văn Sỹ",
+      "latitude": "10.7867073",
+      "longitude": "106.6788531",
+      "website": "http://www.hcmup.edu.vn/",
+      "email" : "@hcmup.edu.vn",
+      "sdt" : "0911610898",
+      "image" : "0"
+    },
+    {
+      "name": "Đại Học Y Dược",
+      "descripstion": "normal",
+      "addres": "41-43 Đinh Tiên Hoàng",
+      "latitude": "10.7849333",
+      "longitude": "106.6999902",
+      "website": "http://www.yds.edu.vn/yds2/",
+      "email" : "@hcmup.edu.vn",
+      "sdt" : "+842838295641",
+      "image" : "0"
+    },
+    {
+      "name": "Đại Học Bách Khoa",
+      "descripstion": "normal",
+      "addres": "268 Lý Thường Kiệt",
+      "latitude": "10.7733306",
+      "longitude": "106.6594208",
+      "website": "http://www.hcmut.edu.vn/vi",
+      "email" : "@hcmup.edu.vn",
+      "sdt" : "02838647256",
+      "image" : "0"
+    },
+    {
+      "name": "Đại Học Ngoại Thương",
+      "descripstion": "good",
+      "addres": "15 duong D5",
+      "latitude": "10.806936",
+      "longitude": "106.7109921",
+      "website": "http://ftu.uni.topica.vn",
+      "email" : "@ftu.uni.topica.vn",
+      "sdt" : "02835127254",
+      "image" : "0"
+    }
+  ]
+}
